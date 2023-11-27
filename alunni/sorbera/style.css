@@ -1,5 +1,13 @@
-.h1 {
+h1 {
 
     background-color: aqua;
+
+}
+
+h2 {
+
+    text-decoration: underline;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
 
 }
